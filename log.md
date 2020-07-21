@@ -6,4 +6,4 @@
 
 **Remarks :** Placeholder
 
-**Check it out :** [Placeholder] (http://www.example.com)
+**Check it out :** [Placeholder](http://www.example.com)
