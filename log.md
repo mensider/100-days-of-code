@@ -2,8 +2,8 @@
 
 ### Day 1 : 21/07/2020
 
-**Today's Work :** Placeholder
+**Today's Work :** Controlling an RGB LED with Joystick
 
-**Remarks :** Placeholder
+**Remarks :** Tested with hardware
 
-**Check it out :** [Placeholder](http://www.example.com)
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
