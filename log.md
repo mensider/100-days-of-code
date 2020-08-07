@@ -87,3 +87,60 @@
 **Remarks :** Tested with hardware
 
 **Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 12 : 01/08/2020
+
+**Today's Work :** Object Detection with IR Reflector
+
+**Remarks :** Coding
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 13 : 02/08/2020
+
+**Today's Work :** Object Detection with IR Reflector
+
+**Remarks :** Tested with hardware
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 14 : 03/08/2020
+
+**Today's Work :** Testing Light Blocking Sensor
+
+**Remarks :** Tested with hardware
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules
+
+### Day 15 : 04/08/2020
+
+**Today's Work :** Light Cup
+
+**Remarks :** Tested with hardware
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 16 : 05/08/2020
+
+**Today's Work :** Laser activated by Reed Switch
+
+**Remarks :** 50 %
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 17 : 06/08/2020
+
+**Today's Work :** Laser activated by Reed Switch
+
+**Remarks :** 100 %
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 18 : 07/08/2020
+
+**Today's Work :** 
+
+**Remarks :** 
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
