@@ -110,7 +110,7 @@
 
 **Remarks :** Tested with hardware
 
-**Check it out :** [Github](https://github.com/mensider/arduino-modules
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
 
 ### Day 15 : 04/08/2020
 
