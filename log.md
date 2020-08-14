@@ -138,9 +138,54 @@
 
 ### Day 18 : 07/08/2020
 
-**Today's Work :** 
+**Today's Work :** Relay activated by Sound Sensor
 
-**Remarks :** 
+**Remarks :** Coding
 
 **Check it out :** [Github](https://github.com/mensider/arduino-modules)
 
+### Day 19 : 08/08/2020
+
+**Today's Work :** Relay activated by Sound Sensor
+
+**Remarks :** Wiring
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 20 : 09/08/2020
+
+**Today's Work :** Relay activated by Sound Sensor
+
+**Remarks :** Tested
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 21 : 10/08/2020
+
+**Today's Work :** Rotary Enoder
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 22 : 11/08/2020
+
+**Today's Work :** Rotary Encoder
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 23 : 12/08/2020
+
+**Today's Work :** Servo Motor controlled by Potentiometer
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 24 : 13/08/2020
+
+**Today's Work :** Servo Motor controlled by Potentiometer
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 25 : 14/08/2020
+
+**Today's Work :** Temperature Sensor
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
