@@ -189,3 +189,21 @@
 **Today's Work :** Temperature Sensor
 
 **Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 26 : 15/08/2020
+
+**Today's Work :** Tilt Switch
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 27 : 16/08/2020
+
+**Today's Work :** Fire Alarm
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
+
+### Day 28 : 17/08/2020
+
+**Today's Work :** Fire Alarm
+
+**Check it out :** [Github](https://github.com/mensider/arduino-modules)
